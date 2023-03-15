@@ -34,9 +34,11 @@ public class EjercicioPractico05 {
         
          double raiz = Math.sqrt(numraiz);
     
-        System.out.println("El numero doble de " + numraiz + " es " + numdoble "es" + (numtriple)+(raiz)+ "es");
+        System.out.println("El numero doble de " + numraiz + " es " + numdoble);
         
-      
+        System.out.println("el numero triple de " + numraiz + " es " + numtriple);
+        
+        System.out.println("la raiz cuadrada es: " + raiz);
     
     }
     
